@@ -1,0 +1,10 @@
+.product p {
+
+}
+.product li {
+        display: flex;
+        gap: 3rem;
+        border:1px solid black;
+        padding: 5px 16px;
+        justify-content: space-between;
+}
